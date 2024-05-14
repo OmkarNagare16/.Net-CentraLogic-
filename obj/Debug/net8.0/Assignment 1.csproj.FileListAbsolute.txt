@@ -1,0 +1,28 @@
+C:\Users\rushika yadav\Desktop\Assignment 1\obj\Debug\net8.0\Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rushika yadav\Desktop\Assignment 1\obj\Debug\net8.0\Assignment 1.AssemblyInfoInputs.cache
+C:\Users\rushika yadav\Desktop\Assignment 1\obj\Debug\net8.0\Assignment 1.AssemblyInfo.cs
+C:\Users\rushika yadav\Desktop\Assignment 1\obj\Debug\net8.0\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\rushika yadav\Desktop\Assignment 1\bin\Debug\net8.0\Assignment 1.exe
+C:\Users\rushika yadav\Desktop\Assignment 1\bin\Debug\net8.0\Assignment 1.deps.json
+C:\Users\rushika yadav\Desktop\Assignment 1\bin\Debug\net8.0\Assignment 1.runtimeconfig.json
+C:\Users\rushika yadav\Desktop\Assignment 1\bin\Debug\net8.0\Assignment 1.dll
+C:\Users\rushika yadav\Desktop\Assignment 1\bin\Debug\net8.0\Assignment 1.pdb
+C:\Users\rushika yadav\Desktop\Assignment 1\obj\Debug\net8.0\Assignment 1.dll
+C:\Users\rushika yadav\Desktop\Assignment 1\obj\Debug\net8.0\refint\Assignment 1.dll
+C:\Users\rushika yadav\Desktop\Assignment 1\obj\Debug\net8.0\Assignment 1.pdb
+C:\Users\rushika yadav\Desktop\Assignment 1\obj\Debug\net8.0\Assignment 1.genruntimeconfig.cache
+C:\Users\rushika yadav\Desktop\Assignment 1\obj\Debug\net8.0\ref\Assignment 1.dll
+D:\Omkar\Assignment 1\bin\Debug\net8.0\Assignment 1.exe
+D:\Omkar\Assignment 1\bin\Debug\net8.0\Assignment 1.deps.json
+D:\Omkar\Assignment 1\bin\Debug\net8.0\Assignment 1.runtimeconfig.json
+D:\Omkar\Assignment 1\bin\Debug\net8.0\Assignment 1.dll
+D:\Omkar\Assignment 1\bin\Debug\net8.0\Assignment 1.pdb
+D:\Omkar\Assignment 1\obj\Debug\net8.0\Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Omkar\Assignment 1\obj\Debug\net8.0\Assignment 1.AssemblyInfoInputs.cache
+D:\Omkar\Assignment 1\obj\Debug\net8.0\Assignment 1.AssemblyInfo.cs
+D:\Omkar\Assignment 1\obj\Debug\net8.0\Assignment 1.csproj.CoreCompileInputs.cache
+D:\Omkar\Assignment 1\obj\Debug\net8.0\Assignment 1.dll
+D:\Omkar\Assignment 1\obj\Debug\net8.0\refint\Assignment 1.dll
+D:\Omkar\Assignment 1\obj\Debug\net8.0\Assignment 1.pdb
+D:\Omkar\Assignment 1\obj\Debug\net8.0\Assignment 1.genruntimeconfig.cache
+D:\Omkar\Assignment 1\obj\Debug\net8.0\ref\Assignment 1.dll
