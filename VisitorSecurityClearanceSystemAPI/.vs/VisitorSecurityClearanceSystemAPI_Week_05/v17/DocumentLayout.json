@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|e:\\c_sharp_tutorial\\visitorsecurityclearancesystemapi_week_05\\visitorsecurityclearancesystemapi_week_05\\dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|solutionrelative:visitorsecurityclearancesystemapi_week_05\\dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|e:\\c_sharp_tutorial\\visitorsecurityclearancesystemapi_week_05\\visitorsecurityclearancesystemapi_week_05\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|solutionrelative:visitorsecurityclearancesystemapi_week_05\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|e:\\c_sharp_tutorial\\visitorsecurityclearancesystemapi_week_05\\visitorsecurityclearancesystemapi_week_05\\interfaces\\iofficeuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|solutionrelative:visitorsecurityclearancesystemapi_week_05\\interfaces\\iofficeuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|e:\\c_sharp_tutorial\\visitorsecurityclearancesystemapi_week_05\\visitorsecurityclearancesystemapi_week_05\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|solutionrelative:visitorsecurityclearancesystemapi_week_05\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|e:\\c_sharp_tutorial\\visitorsecurityclearancesystemapi_week_05\\visitorsecurityclearancesystemapi_week_05\\services\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|solutionrelative:visitorsecurityclearancesystemapi_week_05\\services\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|e:\\c_sharp_tutorial\\visitorsecurityclearancesystemapi_week_05\\visitorsecurityclearancesystemapi_week_05\\interfaces\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|solutionrelative:visitorsecurityclearancesystemapi_week_05\\interfaces\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|e:\\c_sharp_tutorial\\visitorsecurityclearancesystemapi_week_05\\visitorsecurityclearancesystemapi_week_05\\dto\\managermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|solutionrelative:visitorsecurityclearancesystemapi_week_05\\dto\\managermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|e:\\c_sharp_tutorial\\visitorsecurityclearancesystemapi_week_05\\visitorsecurityclearancesystemapi_week_05\\entities\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|solutionrelative:visitorsecurityclearancesystemapi_week_05\\entities\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|e:\\c_sharp_tutorial\\visitorsecurityclearancesystemapi_week_05\\visitorsecurityclearancesystemapi_week_05\\entities\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A2D0C1-B78C-444D-852B-27848EA7CA6F}|VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05.csproj|solutionrelative:visitorsecurityclearancesystemapi_week_05\\entities\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\DTO\\LoginModel.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystemAPI_Week_05\\DTO\\LoginModel.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\DTO\\LoginModel.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystemAPI_Week_05\\DTO\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:44:08.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystemAPI_Week_05\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VisitorSecurityClearanceSystemAPI_Week_05\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T07:23:41.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOfficeUserService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\Interfaces\\IOfficeUserService.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystemAPI_Week_05\\Interfaces\\IOfficeUserService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\Interfaces\\IOfficeUserService.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystemAPI_Week_05\\Interfaces\\IOfficeUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:21:07.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystemAPI_Week_05\\Controllers\\ManagerController.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystemAPI_Week_05\\Controllers\\ManagerController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAqwFAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:31:21.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\Services\\ManagerService.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystemAPI_Week_05\\Services\\ManagerService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\Services\\ManagerService.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystemAPI_Week_05\\Services\\ManagerService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:26:14.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IManagerService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\Interfaces\\IManagerService.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystemAPI_Week_05\\Interfaces\\IManagerService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\Interfaces\\IManagerService.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystemAPI_Week_05\\Interfaces\\IManagerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:12:11.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerModel.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\DTO\\ManagerModel.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystemAPI_Week_05\\DTO\\ManagerModel.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\DTO\\ManagerModel.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystemAPI_Week_05\\DTO\\ManagerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:02:56.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\Entities\\Manager.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystemAPI_Week_05\\Entities\\Manager.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\Entities\\Manager.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystemAPI_Week_05\\Entities\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:06:52.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\Entities\\BaseClass.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystemAPI_Week_05\\Entities\\BaseClass.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\VisitorSecurityClearanceSystemAPI_Week_05\\VisitorSecurityClearanceSystemAPI_Week_05\\Entities\\BaseClass.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystemAPI_Week_05\\Entities\\BaseClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:05:46.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
